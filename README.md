@@ -1,16 +1,27 @@
-# proyecto1
+# 🚀 Profile-Flutter
 
-A new Flutter project.
+> [!TIP]  
+> This is a project of a web page created in flutter using dart as the language.
 
-## Getting Started
+<div style="display: flex;">
+  <img src="https://github.com/user-attachments/assets/ae497db8-2fe9-491d-b551-080eeeaa6462" width="49%"></img>   
+  <img src="https://github.com/user-attachments/assets/8b5aa8cd-72bd-4ffc-9f5e-9c5ac86bf447" width="49%"></img> 
+</div>
 
-This project is a starting point for a Flutter application.
+# 🗝 How to use it  
+You just have to download the zip file that is at the beginning of this repository, and open the folder in Visual Studio Code, once there a terminal opens and you type "Flutter run -d Edge", this will start loading commands allowing you to visualize the project in the Edge browser.
 
-A few resources to get you started if this is your first Flutter project:
+# 🌠 Final Notes
+Thank you for visiting this project!🌌
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# 🐱‍👤 Contributing
+1. **Fork the repo**
+- **Create a new branch**
+   ```bash
+   git checkout -b feature-branch
+- **Commit changes**
+   ```bash
+  git commit -am 'Add new feature'
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📔 License
+This project is licensed under the MIT License. See the `LICENSE` file for details.
