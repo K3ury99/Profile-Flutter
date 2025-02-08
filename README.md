@@ -1,7 +1,7 @@
 # 🚀 Profile-Flutter
 
 > [!TIP]  
-> This is a project of a web page replica created in flutter using dart as the language.
+> This is a project of a web page created in flutter using dart as the language.
 
 <div style="display: flex;">
   <img src="https://github.com/user-attachments/assets/ae497db8-2fe9-491d-b551-080eeeaa6462" width="49%"></img>   
