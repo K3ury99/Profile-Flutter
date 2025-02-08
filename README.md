@@ -12,7 +12,7 @@
 You just have to download the zip file that is at the beginning of this repository, and open the folder in Visual Studio Code, once there a terminal opens and you type "Flutter run -d Edge", this will start loading commands allowing you to visualize the project in the Edge browser.
 
 # 🌠 Final Notes
-Thank you for visiting this project!Thank you for visiting this project!🌌
+Thank you for visiting this project!🌌
 
 # 🐱‍👤 Contributing
 1. **Fork the repo**
