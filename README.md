@@ -1,4 +1,5 @@
-# 🚀 Proyecto-2-Flutter
+# 🚀 Profile-Flutter
+
 > [!TIP]  
 > This is a project of a web page replica created in flutter using dart as the language.
 
